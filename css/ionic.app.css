@@ -9492,42 +9492,42 @@ input, button, select, textarea,.tab-item
 
 
 .bar.app-top-bar {
-    background-color: #FFFF00; }
-    .cicon,.cbtn span,.tab-item.active .tabicon{color:#FFFF00;}
+    background-color: #d67c0e; }
+    .cicon,.cbtn span,.tab-item.active .tabicon{color:#d67c0e;}
 .button.button-positive.button-outline {
-    border-color: #FFFF00;
+    border-color: #d67c0e;
     background: transparent;
-    color: #FFFF00; }
-    .cbtn i{color:#FFFF00;}
-.doc-card .post-actions .cbtn i{color:#FFFF00;}
+    color: #d67c0e; }
+    .cbtn i{color:#d67c0e;}
+.doc-card .post-actions .cbtn i{color:#d67c0e;}
 .post-actions .cbtn i{color:#fff;}
-    .tab-item.tab-item-active, .tab-item.active, .tab-item.activated{box-shadow:0px 2px 0 #FFFF00; background:#fff; font-weight:bold; color:#FFFF00;}
-    .timesheet li{border:1px #FFFF00 solid;}
+    .tab-item.tab-item-active, .tab-item.active, .tab-item.activated{box-shadow:0px 2px 0 #d67c0e; background:#fff; font-weight:bold; color:#d67c0e;}
+    .timesheet li{border:1px #d67c0e solid;}
 .button.button-positive {
     border-color: #d76b2c;
-    background-color: #FFFF00;
+    background-color: #d67c0e;
     color: #fff; }
 
 .button.button-positive.active, .button.button-positive.activated {
-    border-color: #FFFF00;
+    border-color: #d67c0e;
     background-color: #d76b2c;
     box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1); }
 
     .bar.bar-positive {
     border-color: #d76b2c;
-    background-color: #FFFF00;
-    background-image: linear-gradient(0deg, #d76b2c, #FFFF00 50%, transparent 50%);
+    background-color: #d67c0e;
+    background-image: linear-gradient(0deg, #d76b2c, #d67c0e 50%, transparent 50%);
     color: #fff; }
 
 .tabs-striped .tab-item.tab-item-active, .tabs-striped .tab-item.active, .tabs-striped .tab-item.activated {
     margin-top: -2px;
     border-style: solid;
     border-width: 2px 0 0 0;
-    border-color: #FFFF00; }
+    border-color: #d67c0e; }
 
-.tabnav .col a.active, .tabnav .nbtn.active{color:#FFFF00; background:#fff; box-shadow:0 2px 0 #FFFF00; font-weight:bold;}
-.joinfooter .tab-item i{color:#FFFF00;}
-.card-viewbtn{background:#FFFF00; }
+.tabnav .col a.active, .tabnav .nbtn.active{color:#d67c0e; background:#fff; box-shadow:0 2px 0 #d67c0e; font-weight:bold;}
+.joinfooter .tab-item i{color:#d67c0e;}
+.card-viewbtn{background:#d67c0e; }
 /* end of  change theme color*/
 
 .textwrapterms .checkbox .item-content,
